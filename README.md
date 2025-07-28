@@ -1,14 +1,5 @@
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Just Download the Zip File of the above app .
+Install all the required prerequisites.
+Open your Project in VS code and change the directory to the project Directory.
+Run the command "npm run dev".
+It will open your Project in the Browser.
